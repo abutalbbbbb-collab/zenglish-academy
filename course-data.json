@@ -1,0 +1,307 @@
+{
+  "episodes": [
+    {
+      "number": 1,
+      "title": "الصفات",
+      "startPage": 1,
+      "endPage": 4
+    },
+    {
+      "number": 2,
+      "title": "الوظائف — الجزء الأول",
+      "startPage": 5,
+      "endPage": 7
+    },
+    {
+      "number": 3,
+      "title": "العائلة وبعض الفواكه",
+      "startPage": 8,
+      "endPage": 10
+    },
+    {
+      "number": 4,
+      "title": "المنزل والفصل",
+      "startPage": 11,
+      "endPage": 13
+    },
+    {
+      "number": 5,
+      "title": "الوظائف — الجزء الثاني",
+      "startPage": 14,
+      "endPage": 16
+    },
+    {
+      "number": 6,
+      "title": "الحيوانات",
+      "startPage": 17,
+      "endPage": 20
+    },
+    {
+      "number": 7,
+      "title": "الصفات المتضادة",
+      "startPage": 21,
+      "endPage": 24
+    },
+    {
+      "number": 8,
+      "title": "الخضروات",
+      "startPage": 25,
+      "endPage": 28
+    },
+    {
+      "number": 9,
+      "title": "الأرقام",
+      "startPage": 29,
+      "endPage": 35
+    },
+    {
+      "number": 10,
+      "title": "الوقت",
+      "startPage": 36,
+      "endPage": 39
+    },
+    {
+      "number": 11,
+      "title": "التاريخ",
+      "startPage": 40,
+      "endPage": 42
+    },
+    {
+      "number": 12,
+      "title": "الرياضة",
+      "startPage": 43,
+      "endPage": 46
+    },
+    {
+      "number": 13,
+      "title": "أجزاء الجسم",
+      "startPage": 47,
+      "endPage": 50
+    },
+    {
+      "number": 14,
+      "title": "المطبخ",
+      "startPage": 51,
+      "endPage": 53
+    },
+    {
+      "number": 15,
+      "title": "المواصلات",
+      "startPage": 54,
+      "endPage": 60
+    },
+    {
+      "number": 16,
+      "title": "الطقس",
+      "startPage": 61,
+      "endPage": 64
+    },
+    {
+      "number": 17,
+      "title": "المطعم",
+      "startPage": 65,
+      "endPage": 69
+    },
+    {
+      "number": 18,
+      "title": "الناس المحيطين بك",
+      "startPage": 70,
+      "endPage": 73
+    },
+    {
+      "number": 19,
+      "title": "الجغرافيا",
+      "startPage": 74,
+      "endPage": 78
+    },
+    {
+      "number": 20,
+      "title": "المشاعر",
+      "startPage": 79,
+      "endPage": 83
+    },
+    {
+      "number": 21,
+      "title": "التجارة",
+      "startPage": 84,
+      "endPage": 86
+    },
+    {
+      "number": 22,
+      "title": "الأموال",
+      "startPage": 87,
+      "endPage": 91
+    },
+    {
+      "number": 23,
+      "title": "الصحة والمرض",
+      "startPage": 92,
+      "endPage": 96
+    },
+    {
+      "number": 24,
+      "title": "الكلمات السلبية",
+      "startPage": 97,
+      "endPage": 101
+    }
+  ],
+  "episode1Vocabulary": [
+    {
+      "word": "Angry",
+      "meaning": "غاضب",
+      "example": "The small girl is angry."
+    },
+    {
+      "word": "Beautiful",
+      "meaning": "جميل / جميلة",
+      "example": "The tree is very beautiful."
+    },
+    {
+      "word": "Ugly",
+      "meaning": "قبيح / قبيحة",
+      "example": "I don't like this ugly tree."
+    },
+    {
+      "word": "Brave",
+      "meaning": "شجاع",
+      "example": "The man is very brave."
+    },
+    {
+      "word": "Coward",
+      "meaning": "جبان",
+      "example": "Look at the coward boy!"
+    },
+    {
+      "word": "Careful",
+      "meaning": "حذر / محترس",
+      "example": "The fat man is not careful."
+    },
+    {
+      "word": "Careless",
+      "meaning": "غير مبالٍ / مستهتر",
+      "example": "I don't like this careless man."
+    },
+    {
+      "word": "Clever",
+      "meaning": "ذكي / بارع",
+      "example": "My friend is very clever."
+    },
+    {
+      "word": "Cute",
+      "meaning": "جذاب / ظريف",
+      "example": "I have a cat. It is very cute."
+    },
+    {
+      "word": "Dangerous",
+      "meaning": "خطير",
+      "example": "The lion is not cute. It is dangerous."
+    },
+    {
+      "word": "Happy",
+      "meaning": "سعيد",
+      "example": "The cute baby is very happy."
+    },
+    {
+      "word": "Excited",
+      "meaning": "متحمس",
+      "example": "The small girl is excited."
+    },
+    {
+      "word": "Famous",
+      "meaning": "مشهور",
+      "example": "The boy and the girl are famous."
+    },
+    {
+      "word": "Friendly",
+      "meaning": "ودود / لطيف / اجتماعي",
+      "example": "My work friends are friendly."
+    },
+    {
+      "word": "Lucky",
+      "meaning": "محظوظ",
+      "example": "The football player is lucky."
+    },
+    {
+      "word": "Unlucky",
+      "meaning": "سيئ الحظ",
+      "example": "The goalkeeper is very unlucky."
+    },
+    {
+      "word": "Old",
+      "meaning": "عجوز / كبير السن",
+      "example": "The old man is happy."
+    },
+    {
+      "word": "Young",
+      "meaning": "صغير السن",
+      "example": "I'm young but my grandmother is old."
+    }
+  ],
+  "episode2Vocabulary": [
+    {
+      "word": "Accountant",
+      "meaning": "محاسب",
+      "example": "My father is an accountant."
+    },
+    {
+      "word": "Actor",
+      "meaning": "ممثل",
+      "example": "My uncle is an actor."
+    },
+    {
+      "word": "Actress",
+      "meaning": "ممثلة",
+      "example": "My aunt is an actress."
+    },
+    {
+      "word": "Author",
+      "meaning": "مؤلف",
+      "example": "Shakespeare is a famous author."
+    },
+    {
+      "word": "Baker",
+      "meaning": "خباز",
+      "example": "My grandfather is a baker."
+    },
+    {
+      "word": "Banker",
+      "meaning": "موظف في بنك",
+      "example": "My mother is a banker."
+    },
+    {
+      "word": "Barber",
+      "meaning": "حلاق",
+      "example": "My brother is a barber."
+    },
+    {
+      "word": "Butcher",
+      "meaning": "جزار",
+      "example": "My neighbor is a butcher."
+    },
+    {
+      "word": "Burglar",
+      "meaning": "لص منازل",
+      "example": "This man is a burglar."
+    },
+    {
+      "word": "Chef",
+      "meaning": "طاهٍ / طباخ",
+      "example": "My friend is a chef."
+    },
+    {
+      "word": "Carpenter",
+      "meaning": "نجار",
+      "example": "My brother is a carpenter."
+    },
+    {
+      "word": "Criminal",
+      "meaning": "مجرم",
+      "example": "I don't like criminals."
+    },
+    {
+      "word": "Police officer",
+      "meaning": "ضابط / ضابطة شرطة",
+      "example": "My aunt is a police officer."
+    }
+  ]
+}
